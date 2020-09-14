@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<sitemap>
+	<match pattern="^google-sitemap$">
+		<param name="cache" value="10" />
+		<generate src="udata://content/customSitemap/" />
+		<transform src="./templates/s202/xslt/sys-tpls/google-sitemap.xsl">
+			<param name="domain" value="{_http_host}" />
+		</transform>
+		<serialize type="xml">
+			<param name="static-cache" value="1" />
+		</serialize>
+	</match>
+	<match pattern="^ajax/(.*)\.(.*)\.ajax$">
+		<param name="cache" value="100" />
+		<generate src="upage://{2}" />
+		<transform src="./templates/s202/xslt/sys-tpls/ajax.xsl">
+			<param name="ajax" value="{1}" />
+			<param name="domain" value="{_http_host}" />
+		</transform>
+		<serialize type="html" />
+	</match>
+</sitemap>

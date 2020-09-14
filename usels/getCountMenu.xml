@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selection>
+	<target expected-result="pages" force-hierarchy="1">
+		<type module="content" method="page"/>
+		<type module="blogs20" method="blog"/>
+		<type module="faq" method="category"/>
+		<type module="faq" method="project"/>
+		<type module="news" method="rubric"/>
+		<type module="photoalbum" method="album"/>
+		<type module="webforms" method="page"/>
+		<type module="catalog" method="category"/>
+		<type module="catalog" method="{2}"/>
+		<category>{1}</category>
+	</target>
+</selection>

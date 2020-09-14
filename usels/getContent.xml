@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selection>
+	<target result="pages">
+		<type id="{1}" />
+		<type module="{2}" method="{3}"/>
+		<category depth="{5}">{4}</category>
+	</target>
+	<limit page="{7}">{6}</limit>
+</selection>

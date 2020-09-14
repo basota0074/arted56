@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selection>
+	<target result="pages">
+		<type module="blogs20" method="post" />
+	</target>
+	<sort order="descending">publish_time</sort>
+	<limit page="0">{limit}</limit>
+</selection>

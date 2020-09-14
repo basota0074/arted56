@@ -1,0 +1,5 @@
+<?php
+
+	new umiEventListener('comments_message_post_do', 'comments', 'onCommentPostSetCheckboxes');
+	new umiEventListener('comments_message_post_do', 'comments', 'onCommentPostSetGrade');
+

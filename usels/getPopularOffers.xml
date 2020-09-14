@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selection>
+	<target expected-result="pages">
+		<type module="catalog" method="object" />
+	</target>
+	<property name="popular_offer" value="1"/>
+	<limit page="0">{1}</limit>
+</selection>

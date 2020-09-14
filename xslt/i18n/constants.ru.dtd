@@ -1,0 +1,345 @@
+<!ENTITY nbsp "&#160;">
+
+<!ENTITY yes "Да">
+<!ENTITY no "Нет">
+
+<!ENTITY welcome "Добро пожаловать,">
+<!ENTITY enter-captcha "Введите код">
+<!ENTITY errors "Сиcтемные сообщения">
+<!ENTITY error "Ошибка">
+<!ENTITY error-empty-file "Файл для скачивания еще не загружен администратором сайта.">
+
+<!ENTITY nick_name "Ник">
+<!ENTITY login "Логин">
+<!ENTITY password "Пароль">
+<!ENTITY password-confirm "Подтвердите пароль">
+<!ENTITY log-in "Войти">
+<!ENTITY log_in "Вход">
+<!ENTITY log-out "Выход">
+<!ENTITY office "Кабинет">
+<!ENTITY my_settings "Мои настройки">
+<!ENTITY my_orders "Мои заказы">
+<!ENTITY my_basket "Моя корзина">
+<!ENTITY private_office "Личный кабинет">
+<!ENTITY authorization "Авторизация">
+<!ENTITY registration "Регистрация">
+<!ENTITY save-changes "Сохранить изменения">
+<!ENTITY forget-label "Ваш e-mail для востановления пароля">
+<!ENTITY forget-password "Забыли пароль?">
+<!ENTITY forget-button "Выслать пароль">
+<!ENTITY forget-do-message "Через несколько минут на ваш e-mail придет письмо со ссылкой для смены пароля.">
+<!ENTITY restore-message "На ваш e-mail был выслан новый пароль.">
+<!ENTITY registration-do "Зарегистрироваться">
+<!ENTITY registration-done "Регистрация прошла успешно.">
+<!ENTITY registration-activation-note "Через несколько минут на ваш e-mail придет письмо с вашим логином и паролем.">
+<!ENTITY account-activated "Аккаунт успешно активирован.">
+<!ENTITY user-reauth "Вы ввели неверный логин или пароль. Проверьте раскладку клавиатуры, не нажата ли клавиша «Caps Lock» и попробуйте ввести логин и пароль ещё раз.">
+<!ENTITY user-welcome "Добро пожаловать на сайт.">
+<!ENTITY admin-welcome "Вы вошли как администратор сайта. Функции смены пароля и персональных данных доступны для вас только из административной части сайта. Чтобы увидить как ваш сайт выглядит для обычного пользователя разлогиньтесь.">
+<!ENTITY ajax-user-reauth "Вы ввели неверный логин или пароль.">
+<!ENTITY ajax-user-welcome "Добро пожаловать на сайт.">
+
+<!ENTITY e-mail "E-mail">
+<!ENTITY regim "Режим работы">
+<!ENTITY cart-head "Корзина">
+<!ENTITY goods-head "Надпись 'Товаров'">
+<!ENTITY summ-head "Надпись 'Сумма'">
+<!ENTITY order-head "Оформить заказ">
+
+<!ENTITY feedback "Обратная связь:">
+<!ENTITY feedback-address-title "Заголовок для адреса">
+<!ENTITY feedback-address "Адрес">
+<!ENTITY feedback-time-title "Заголовок для времени работы">
+<!ENTITY feedback-time "Время работы">
+<!ENTITY feedback-phones-title "Заголовок для телефона">
+<!ENTITY feedback-phones "Телефон">
+<!ENTITY feedback-fax-title "Заголовок для факса">
+<!ENTITY feedback-fax "Факс">
+<!ENTITY feedback-email-title "Заголовок для email">
+<!ENTITY feedback-email "Email">
+<!ENTITY feedback-skype-title "Заголовок для skype">
+<!ENTITY feedback-skype "Skype">
+
+<!ENTITY required-text "Обязательное поле">
+<!ENTITY email-error-text "Вы некорректно ввели email">
+<!ENTITY captcha-error-text "Введите код с картинки">
+<!ENTITY webforms-error-text "Заполните обязательное поле">
+<!ENTITY order-form-error-text "Заполните обязательное поле">
+<!ENTITY order-form-admin-text "Вы можете изменить названия полей в данной форме (F2). Сообщения, отправляемые через данную форму, будут приходить на e-mail, указанный в личных настройках.">
+<!ENTITY callback "Обратный звонок">
+<!ENTITY send "Отправить">
+
+<!ENTITY comments "Комментарии">
+<!ENTITY comment "Комментировать">
+<!ENTITY no-comments "Без комментариев">
+<!ENTITY comment-body "Текст комментария">
+<!ENTITY comment-name "Ваше имя">
+<!ENTITY comment-email "Ваш email">
+<!ENTITY comment-submit "Добавить">
+<!ENTITY comment-title "Заголовок">
+
+<!ENTITY reviews "Отзывы">
+<!ENTITY review "Отзыв">
+<!ENTITY reviews-body "Отзыв">
+<!ENTITY reviews-name "Ваше имя">
+<!ENTITY reviews-email "Ваш email">
+<!ENTITY reviews-grade "Ваша оценка">
+<!ENTITY reviews-submit "Добавить отзыв">
+
+<!ENTITY added "Добавлено">
+<!ENTITY basket-title "Ваша корзина товаров">
+<!ENTITY header-contact-title "контакты">
+<!ENTITY header-vkontakte "вконтакте">
+<!ENTITY basket-title-contact-details "Укажите контактную информацию">
+<!ENTITY basket-add "Купить">
+<!ENTITY basket-items-text "на сумму">
+<!ENTITY basket-back-to-cart "Назад в корзину">
+
+<!ENTITY previous-page "Предыдущая">
+<!ENTITY next-page "Следующая">
+
+<!ENTITY apply "Применить">
+<!ENTITY order-by "Сортировать по:">
+<!ENTITY order-by-name "Названию">
+<!ENTITY order-by-price "Цене">
+<!ENTITY reset "Сбросить">
+
+<!ENTITY range-from "от">
+<!ENTITY range-to "до">
+<!ENTITY in "в">
+<!ENTITY back "Вернуться">
+
+<!ENTITY table-item-title "Название">
+<!ENTITY table-price-title "Стоимость">
+
+<!ENTITY summary-price "Сумма заказа">
+<!ENTITY basket-item "Наименование">
+<!ENTITY price "Цена">
+<!ENTITY amount "Количество">
+<!ENTITY sum "Сумма">
+<!ENTITY delete "Удалить">
+<!ENTITY remove-all "Очистить корзину">
+<!ENTITY go-back "Продолжить покупки">
+<!ENTITY begin-purchase "Оформить заказ">
+<!ENTITY continue "Продолжить">
+<!ENTITY choose-delivery-address "Выберите адрес доставки">
+<!ENTITY new-delivery-address "Новый адрес доставки">
+<!ENTITY self-delivery  "Самовывоз">
+<!ENTITY delivery-agent "Способ доставки">
+
+<!ENTITY google-lang "ru">
+<!ENTITY fb-lang "ru_RU">
+<!ENTITY tweet-lang "ru">
+<!ENTITY tweet "Твитнуть">
+
+<!ENTITY empty-photo "/templates/s202/base-img/no-photo.jpg">
+<!ENTITY empty-section-name "Введите название раздела">
+<!ENTITY empty-name "Введите название">
+<!ENTITY empty-date "Введите дату создания">
+<!ENTITY empty-page-name "Введите название страницы">
+<!ENTITY empty-page-date "Введите дату создания">
+<!ENTITY empty-blog-anons "Введите анонс поста блога">
+<!ENTITY empty-page-anons "Введите анонс новости">
+<!ENTITY empty-page-content "Введите основное содержание страницы">
+<!ENTITY empty-page-seo "Введите дополнительное содержание страницы">
+<!ENTITY empty-fio "Введите название компании">
+<!ENTITY empty-content "Введите текст">
+<!ENTITY empty-phonecode "Код">
+<!ENTITY empty-phone "Телефон">
+<!ENTITY empty-worktime "Введите режим работы">
+<!ENTITY empty-address "Введите адрес">
+<!ENTITY empty-category "Товары отсутствуют">
+<!ENTITY empty-special-offers "Введите название блока спецпредложений">
+<!ENTITY empty-popular-offers "Введите название блока популярных товаров">
+<!ENTITY empty-catalog-title "Введите название блока каталога">
+<!ENTITY empty-blog-title "Введите название блока блога">
+<!ENTITY empty-news-title "Введите название блока новостей">
+<!ENTITY empty-gallery-title "Введите название блока фотоальбома">
+<!ENTITY empty-code-footer "Введите сюда код счетчика">
+<!ENTITY empty-show-all "Надпись 'Показать все'">
+<!ENTITY empty-catalog-description "Введите название блока описания">
+<!ENTITY empty-prefix "Введите краткое описание">
+<!ENTITY empty-desc "Введите краткое текстовое описание">
+<!ENTITY empty-shortbasket-title "Введите заголовок корзины">
+<!ENTITY empty-currency "Валюта">
+<!ENTITY empty-price "Цена">
+<!ENTITY empty-price-title "Введите название блока цены">
+<!ENTITY empty-buy-title "Кнопка купить">
+<!ENTITY empty-order-title "Кнопка заказать">
+<!ENTITY empty-empty-basket "Введите текст пустой корзины">
+<!ENTITY empty-basket-title "Заголовок корзины">
+<!ENTITY empty-blog-name "Введите название поста">
+<!ENTITY empty-tags "Введите тэги поста">
+<!ENTITY empty-comments-title "Введите название блока комментариев">
+<!ENTITY empty-comments-add-title "Введите название блока добавления комментариев">
+<!ENTITY empty-reviews-title "Введите название блока отзывов">
+<!ENTITY empty-reviews-add-title "Введите название блока добавления отзывов">
+<!ENTITY empty-code "Вставьте произвольный код если это необходимо">
+<!ENTITY empty-html-block "Вставьте произвольный текст если это необходимо">
+<!ENTITY empty-yamap "Вставьте код карты">
+<!ENTITY empty-choose "Выберите значение из списка">
+<!ENTITY empty-file "Файл для скачивания">
+<!ENTITY empty-file-name "Название файла для скачивания">
+<!ENTITY emarket-paysystem-name "Впишите название платёжной системы">
+<!ENTITY emarket-paysystem-description "Впишите описание платёжной системы">
+<!ENTITY empty "Пусто">
+
+<!ENTITY empty-banner-title "Заголовок">
+<!ENTITY empty-banner-html "Описание">
+<!ENTITY empty-banner-link "Ссылка">
+
+<!ENTITY empty-catalog "Cюда можно добавить категории или товары и услуги для каталога">
+<!ENTITY empty-photo-list "Cюда можно добавить фотографии">
+<!ENTITY empty-photo-album "Cюда можно добавить фотографии или фотоальбомы">
+<!ENTITY empty-filemanager "Cюда можно добавить файлы для скачивания">
+<!ENTITY empty-blog "Cюда можно добавить посты блога">
+<!ENTITY empty-news "Cюда можно добавить новости">
+<!ENTITY empty-menu "Cюда можно добавить пункты меню">
+<!ENTITY empty-collaple-menu "меню">
+
+<!ENTITY no-yamap "Создайте карту с помощью Яндекс.Карт">
+<!ENTITY no-yamap-domain "При указании адреса вашего сайта, укажите свой основной домен. Если у вас привзяан домен 2-го уровня, то указывайте именно его.">
+
+<!ENTITY breadcrumb-separator "/">
+
+<!ENTITY payment-type "Способы оплаты" >
+<!ENTITY payment-redirect-text "Нажмите кнопку 'Оплатить' для перехода на сайт платежной системы" >
+
+<!ENTITY default-date-format "d.m.Y">
+<!ENTITY amount-prefix "шт.">
+<!ENTITY in-stock "На складе">
+
+<!ENTITY articul-title-inlist "Артикул">
+<!ENTITY perpage_label "На странице:">
+<!ENTITY layout-label "Вид:">
+<!ENTITY layout_0 "Плитка">
+<!ENTITY layout_1 "Таблица">
+<!ENTITY layout_2 "Список">
+<!ENTITY catalog_default_layout_title "Отображение каталога по умолчанию">
+
+<!ENTITY choose-self-delivery "или пункт выдачи">
+<!ENTITY or-new-delivery-address "или укажите новый адрес">
+<!ENTITY choose-legal_person "Выберите юридическое лицо">
+<!ENTITY new-legal-person "Новое юридическое лицо">
+<!ENTITY choose-delivery-address "Выберите адрес доставки">
+<!ENTITY choose-self-delivery "или пункт выдачи">
+<!ENTITY or-new-delivery-address "или укажите новый адрес">
+<!ENTITY new-delivery-address "Новый адрес доставки">
+<!ENTITY self-delivery  "Самовывоз">
+<!ENTITY delivery-agent "Способ доставки">
+
+<!ENTITY emarket-order-failed "Не удалось совершить покупку">
+<!ENTITY emarket-order-successful "Заказ успешно добавлен.">
+<!ENTITY emarket-mail-user-info "Информация о заказчике">
+<!ENTITY emarket-mail-order-info "Информация о заказе">
+<!ENTITY emarket-mail-name "Наименование">
+<!ENTITY emarket-mail-amount "Количество">
+<!ENTITY emarket-mail-part "Артикул">
+<!ENTITY emarket-mail-price_per_unit "Цена за ед.">
+<!ENTITY emarket-mail-price "Цена">
+<!ENTITY emarket-summary-price "Общая сумма заказа">
+<!ENTITY emarket-summary-amount "Товаров в заказе">
+<!ENTITY emarket-customer-name "ФИО">
+<!ENTITY emarket-customer-address "Адрес доставки">
+<!ENTITY emarket-customer-phone "Телефон">
+<!ENTITY emarket-customer-email "E-mail">
+<!ENTITY emarket-customer-info "Дополнительная информация">
+<!ENTITY emarket-no-orders "У вас еще нет ни одного заказа.">
+<!ENTITY emarket-order-number "Заказ №">
+<!ENTITY emarket-order-item-name "Наименование">
+<!ENTITY emarket-order-item-price "Цена за единицу">
+<!ENTITY emarket-order-item-amount "Количество">
+<!ENTITY emarket-order-item-art "Артикул">
+<!ENTITY emarket-order-item-sum "Сумма">
+<!ENTITY emarket-order-status "Статус заказа">
+<!ENTITY emarket-order-price "Сумма заказа">
+<!ENTITY emarket-order-paysystem-pay "Оплатить">
+
+<!ENTITY search-button "Искать">
+<!ENTITY search-title "Поиск">
+<!ENTITY search-header "Результаты поиска">
+<!ENTITY search-founded-left "По вашему запросу">
+<!ENTITY search-founded-right "найдено страниц">
+<!ENTITY search-founded-nothing "ничего не найдено">
+<!ENTITY search-founded-total "Всего найдено">
+
+<!ENTITY show-reviews "Отображать отзывы">
+<!ENTITY show-reviews-in-directory "Отображать отзывы в объектах каталога">
+<!ENTITY show-index-catalog "Отображать блок с каталогом">
+<!ENTITY show-index-photoalbum "Отображать блок с фотоальбомом">
+<!ENTITY show-index-news "Отображать блок с новостями">
+<!ENTITY show-index-blog "Отображать блок с блогом">
+
+<!ENTITY add-text-menu "Добавить страницу">
+<!ENTITY add-text-file "Добавить файл">
+<!ENTITY add-text-image "Добавить изображение">
+<!ENTITY add-text-photo "Добавить фотографию">
+<!ENTITY add-text-album "Добавить фотоальбом">
+<!ENTITY add-text-catalog "Добавить категорию">
+<!ENTITY add-text-catalog-object "Добавить товар или услугу">
+<!ENTITY add-text-news "Добавить новость">
+<!ENTITY add-text-post "Добавить пост">
+
+<!ENTITY delete-text-menu "Удалить страницу">
+<!ENTITY delete-text-file "Удалить файл">
+<!ENTITY delete-text-image "Удалить изображение">
+<!ENTITY delete-text-photo "Удалить фотографию">
+<!ENTITY delete-text-album "Удалить фотоальбом">
+<!ENTITY delete-text-catalog "Удалить категорию">
+<!ENTITY delete-text-catalog-object "Удалить товар или услугу">
+<!ENTITY delete-text-news "Удалить новость">
+<!ENTITY delete-text-post "Удалить пост">
+<!ENTITY delete-text-footer-title "Удалить ссылки">
+<!ENTITY delete-text-footer-p1 "Чтобы убрать ссылки, перейдите на">
+<!ENTITY delete-text-footer-p2 "платный тариф">
+
+<!ENTITY share "Поделиться с друзьями">
+<!ENTITY copyright "Работает на">
+<!ENTITY copyright-button "x Удалить ссылки">
+<!ENTITY notfound-page "Запрошенная Вами страница не найдена.">
+<!ENTITY sitemap-title "Карта сайта">
+
+<!ENTITY feedback-autor "Автор">
+<!ENTITY feedback-email "E-mail">
+<!ENTITY feedback-theme "Тема письма">
+<!ENTITY feedback-message "Сообщение">
+<!ENTITY special-offer "Специальное предложение">
+<!ENTITY popular-offer "Популярный товар">
+<!ENTITY show-special-offers "Отображать специальные предложения">
+<!ENTITY show-popular-offers "Отображать популярные товары">
+<!ENTITY catalog-type "Тип товара">
+
+<!ENTITY add-photos "Добавить фотографии">
+<!ENTITY add-album "Добавить альбом">
+<!ENTITY created "Создано">
+<!ENTITY out-of "из">
+<!ENTITY no-photos-selected "Вы ничего не выбрали">
+<!ENTITY cant-touch-this "Не закрывайте браузер и не перезагружайте страницу до полного завершения операций">
+<!ENTITY upload-some-photos "Вы можете загрузить группу фотографий">
+
+<!ENTITY page "Страница">
+<!ENTITY page-lower-case "cтраница">
+
+<!ENTITY opinions-add "Добавить отзыв">
+<!ENTITY opinions-delete "Удалить отзыв">
+<!ENTITY opinions-author-fio "ФИО автора">
+<!ENTITY opinions-author-position "Должность автора">
+<!ENTITY opinions-text "Текст отзыва">
+<!ENTITY empty-comments-widget-title "Отзывы">
+<!ENTITY empty-comments-page-link-title "Ссылка на страницу отзывов">
+<!ENTITY title-read-link "Читать далее">
+
+<!ENTITY social-vk-id "ID сообщества vkontakte">
+
+<!ENTITY label-share-social-network-vk "Поделиться ВКонтакте">
+<!ENTITY label-share-social-network-odnoklassniki "Поделиться в Одноклассниках">
+<!ENTITY label-share-social-network-moikrug "Поделиться в Моём круге">
+<!ENTITY label-share-social-network-mymail "Поделиться в Моём мире">
+<!ENTITY label-share-social-network-facebook "Поделиться в Facebook">
+<!ENTITY label-share-social-network-twitter "Поделиться в Twitter">
+<!ENTITY label-share-social-network-livejournal "Поделиться в LiveJournal">
+<!ENTITY label-share-social-network-liveinternet "Поделиться в LiveInternet">
+
+<!ENTITY orders-history "Историю заказов Вы можете посмотреть с своем">
+<!ENTITY personal-account "личном кабинете">
+<!ENTITY print-invoice "Распечатать счет">

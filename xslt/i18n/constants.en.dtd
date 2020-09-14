@@ -1,0 +1,317 @@
+<!ENTITY nbsp "&#160;">
+
+<!ENTITY yes "Да">
+<!ENTITY no "Нет">
+
+<!ENTITY welcome "Welcome,">
+<!ENTITY enter-captcha "Enter code">
+<!ENTITY errors "system message">
+<!ENTITY error "Error">
+<!ENTITY error-empty-file "Download file is not upload yet by administrator.">
+
+<!ENTITY nick_name "Nickname">
+<!ENTITY login "login">
+<!ENTITY password "password">
+<!ENTITY password-confirm "confirm password">
+<!ENTITY log-in "Sign in">
+<!ENTITY log-out "Sign out">
+<!ENTITY office "profile">
+<!ENTITY my_settings "My settings">
+<!ENTITY my_orders "My orders">
+<!ENTITY my_basket "My cart">
+<!ENTITY private_office "Личный кабинет">
+<!ENTITY authorization "Authorization">
+<!ENTITY registration "Sign up">
+<!ENTITY save-changes "Update">
+<!ENTITY forget-label "Your email">
+<!ENTITY forget-password "forgot password?">
+<!ENTITY forget-button "Send password">
+<!ENTITY forget-do-message "In a few moments we will send you email with link to change your passoword.">
+<!ENTITY restore-message "We sent new password to your email.">
+<!ENTITY registration-do "Sign up">
+<!ENTITY registration-done "You successfully signed up.">
+<!ENTITY registration-activation-note ".">
+<!ENTITY account-activated "You activated your account.">
+<!ENTITY user-reauth "You entered incorrect login or password. Check your «Caps Lock» button and try again .">
+<!ENTITY user-welcome "Welcome to website.">
+<!ENTITY admin-welcome "You entered as an website administrator. Функции смены пароля и персональных данных доступны для вас только из административной части сайта.You have to sign out if you want to see your website as a regular user.">
+<!ENTITY ajax-user-reauth "You entered inccorect login or password.">
+<!ENTITY ajax-user-welcome "Welcome to website.">
+
+<!ENTITY e-mail "E-mail">
+<!ENTITY regim "Mode">
+<!ENTITY cart-head "Basket">
+<!ENTITY goods-head "Title 'Products'">
+<!ENTITY summ-head "Title 'Total'">
+<!ENTITY order-head "Book the order">
+
+<!ENTITY feedback "Contact:">
+<!ENTITY feedback-address-title "Address title">
+<!ENTITY feedback-address "Address">
+<!ENTITY feedback-time-title "Title for Hours">
+<!ENTITY feedback-time "Hours">
+<!ENTITY feedback-phones-title "Title for contact number">
+<!ENTITY feedback-phones "Contact number">
+<!ENTITY feedback-fax-title "Title for fax">
+<!ENTITY feedback-fax "Fax">
+<!ENTITY feedback-email-title "Title for email">
+<!ENTITY feedback-email "Email">
+<!ENTITY feedback-skype-title "Title for skype">
+<!ENTITY feedback-skype "Skype">
+
+<!ENTITY required-text "required field">
+<!ENTITY email-error-text "You entered incorrect email">
+<!ENTITY captcha-error-text "enter code on the picture">
+<!ENTITY webforms-error-text "Fill out required field">
+<!ENTITY order-form-error-text "Fill out required field">
+<!ENTITY order-form-admin-text "You can change fields name in this form (F2).Messages send through this form will come to your email that you put in your personal settings.">
+<!ENTITY callback "Callback">
+<!ENTITY send "Send">
+
+<!ENTITY comments "Comments">
+<!ENTITY comment "comment">
+<!ENTITY no-comments "No comments">
+<!ENTITY comment-body "Yor comment text">
+<!ENTITY comment-name "Your name">
+<!ENTITY comment-email "Your email">
+<!ENTITY comment-submit "Submit">
+<!ENTITY comment-title "Tittle">
+
+<!ENTITY reviews "Reviews">
+<!ENTITY review "Review">
+<!ENTITY reviews-body "Review">
+<!ENTITY reviews-name "Your name">
+<!ENTITY reviews-email "Your email">
+<!ENTITY reviews-grade "Your rate">
+<!ENTITY reviews-submit "Submit review">
+
+<!ENTITY added "Added">
+<!ENTITY basket-title "Your shopping cart">
+<!ENTITY basket-title-contact-details "Provide contact information">
+<!ENTITY basket-add "Buy">
+<!ENTITY basket-items-text "Price">
+<!ENTITY basket-back-to-cart "Back to cart">
+
+<!ENTITY previous-page "Back">
+<!ENTITY next-page "Next">
+
+<!ENTITY apply "Apply">
+<!ENTITY order-by "Rate by:">
+<!ENTITY order-by-name "name">
+<!ENTITY order-by-price "Price">
+<!ENTITY reset "Reset">
+
+<!ENTITY range-from "from">
+<!ENTITY range-to "to">
+<!ENTITY in "in">
+<!ENTITY back "back">
+
+<!ENTITY table-item-title "name">
+<!ENTITY table-price-title "cost">
+
+<!ENTITY summary-price "Total">
+<!ENTITY basket-item "Name">
+<!ENTITY price "Цена">
+<!ENTITY amount "Quantity">
+<!ENTITY sum "cost">
+<!ENTITY delete "Delete">
+<!ENTITY remove-all "Reset cart">
+<!ENTITY go-back "Continue shopping">
+<!ENTITY begin-purchase "place the order">
+<!ENTITY continue "continue">
+<!ENTITY choose-delivery-address "Shipping address">
+<!ENTITY new-delivery-address "New shipping address">
+<!ENTITY self-delivery  "Self delivery">
+<!ENTITY delivery-agent "Delivery option">
+
+<!ENTITY google-lang "ru">
+<!ENTITY fb-lang "ru_RU">
+<!ENTITY tweet-lang "ru">
+<!ENTITY tweet "tweet">
+
+<!ENTITY empty-photo "/templates/s202/base-img/no-photo.jpg">
+<!ENTITY empty-section-name "Enter field name">
+<!ENTITY empty-name "Enter name">
+<!ENTITY empty-date "Enter date">
+<!ENTITY empty-page-name "Enter page name">
+<!ENTITY empty-page-date "Enter date">
+<!ENTITY empty-blog-anons "Введите анонс поста блога">
+<!ENTITY empty-page-anons "Введите анонс новости">
+<!ENTITY empty-page-content "Enter page text">
+<!ENTITY empty-page-seo "Enter SEO page text">
+<!ENTITY empty-fio "Enter company name">
+<!ENTITY empty-content "Enter text">
+<!ENTITY empty-phonecode "code">
+<!ENTITY empty-phone "Phone number">
+<!ENTITY empty-worktime "Enter work Hours">
+<!ENTITY empty-address "Enter address">
+<!ENTITY empty-category "Items out of stock">
+<!ENTITY empty-special-offers "Enter name of special offers">
+<!ENTITY empty-catalog-title "Enter name of catalog field">
+<!ENTITY empty-blog-title "Enter name of blog field">
+<!ENTITY empty-news-title "Enter name of news field">
+<!ENTITY empty-gallery-title "Enter gallery name">
+<!ENTITY empty-code-footer "Введите сюда код счетчика">
+<!ENTITY empty-show-all "Title 'Show'">
+<!ENTITY empty-catalog-description "enter name of the description field">
+<!ENTITY empty-prefix "Enter description">
+<!ENTITY empty-desc "Enter short text description">
+<!ENTITY empty-shortbasket-title "Enter cart name">
+<!ENTITY empty-currency "Currency">
+<!ENTITY empty-price "Price">
+<!ENTITY empty-price-title "Enter name of the price field">
+<!ENTITY empty-buy-title "Button buy">
+<!ENTITY empty-order-title "Button order">
+<!ENTITY empty-empty-basket "Enter text of empty cart">
+<!ENTITY empty-basket-title "Cart title">
+<!ENTITY empty-blog-name "enter post name">
+<!ENTITY empty-tags "Enter post tags">
+<!ENTITY empty-comments-title "Enter name of the comment field">
+<!ENTITY empty-comments-add-title "Enter name of the Edit comment field">
+<!ENTITY empty-reviews-title "Enter name of the review field">
+<!ENTITY empty-reviews-add-title "Enter name of the add review field">
+<!ENTITY empty-code "Enter random code if needed">
+<!ENTITY empty-html-block "Enter random text if needed">
+<!ENTITY empty-yamap "enter map code">
+<!ENTITY empty-choose "Choose from the list">
+<!ENTITY empty-file "download file">
+<!ENTITY empty-file-name "name for download file">
+<!ENTITY emarket-paysystem-name "Enter name of the pay system">
+<!ENTITY emarket-paysystem-description "Enter description of the pay system">
+<!ENTITY empty "Empty">
+
+<!ENTITY empty-banner-title "Title">
+<!ENTITY empty-banner-html "Html">
+<!ENTITY empty-banner-link "Link">
+
+<!ENTITY empty-catalog "Here you can add category, products or services for catalog">
+<!ENTITY empty-photo-list "Here you can add pictures">
+<!ENTITY empty-photo-album "Here you can add pictures or album">
+<!ENTITY empty-filemanager "Here you can add download files">
+<!ENTITY empty-blog "Here you can add posts from blog">
+<!ENTITY empty-news "Here you can add news">
+<!ENTITY empty-menu "Here you can add menu settings">
+
+<!ENTITY no-yamap "Creat map on Yandex.ru">
+<!ENTITY no-yamap-domain "Whem you enter your website address, you have to enter your main domain. If you attached 2nd level doamin, then you have to enter it.">
+
+<!ENTITY breadcrumb-separator "/">
+
+<!ENTITY payment-type "Pay methods" >
+<!ENTITY payment-redirect-text "Push button'pay' to go on pay system website" >
+
+<!ENTITY default-date-format "d.m.Y">
+<!ENTITY amount-prefix "шт.">
+<!ENTITY in-stock "in stock">
+
+<!ENTITY articul-title-inlist "articul">
+<!ENTITY perpage_label "On page:">
+<!ENTITY layout-label "view:">
+<!ENTITY layout_0 "Square">
+<!ENTITY layout_1 "Table">
+<!ENTITY layout_2 "List">
+
+<!ENTITY choose-self-delivery "or self-delivery">
+<!ENTITY or-new-delivery-address "or enter new delivery address">
+<!ENTITY choose-legal_person "Select legal person">
+<!ENTITY new-legal-person "New legal person">
+<!ENTITY choose-delivery-address "Choose your delivery address">
+<!ENTITY choose-self-delivery "or self-delivery">
+<!ENTITY or-new-delivery-address "or enter new delivery address">
+<!ENTITY new-delivery-address "New delivery address">
+<!ENTITY self-delivery  "Pickup">
+<!ENTITY delivery-agent "Delivery method">
+
+<!ENTITY emarket-order-failed "We couldn't finish your purchase">
+<!ENTITY emarket-order-successful "Order was added.">
+<!ENTITY emarket-mail-user-info "Customer information">
+<!ENTITY emarket-mail-order-info "Order information">
+<!ENTITY emarket-mail-name "Name">
+<!ENTITY emarket-mail-amount "Quantity">
+<!ENTITY emarket-mail-part "Articul">
+<!ENTITY emarket-mail-price_per_unit "Price for each">
+<!ENTITY emarket-mail-price "Price">
+<!ENTITY emarket-summary-price "total">
+<!ENTITY emarket-summary-amount "Items in order">
+<!ENTITY emarket-customer-name "First Last Name">
+<!ENTITY emarket-customer-address "Shipping address">
+<!ENTITY emarket-customer-phone "Phone number">
+<!ENTITY emarket-customer-email "E-mail">
+<!ENTITY emarket-customer-info "Additional information">
+<!ENTITY emarket-no-orders "You dont't have any orders.">
+<!ENTITY emarket-order-number "Order №">
+<!ENTITY emarket-order-item-name "Name">
+<!ENTITY emarket-order-item-price "Price for each">
+<!ENTITY emarket-order-item-amount "quantity">
+<!ENTITY emarket-order-item-art "Articul">
+<!ENTITY emarket-order-item-sum "total">
+<!ENTITY emarket-order-status "Order status">
+<!ENTITY emarket-order-price "total">
+<!ENTITY emarket-order-paysystem-pay "Pay">
+
+<!ENTITY search-button "search">
+<!ENTITY search-title "Search">
+<!ENTITY search-header "Search results">
+<!ENTITY search-founded-left "By your search">
+<!ENTITY search-founded-right "found pages">
+<!ENTITY search-founded-nothing "nothing found">
+<!ENTITY search-founded-total "Found">
+
+<!ENTITY show-reviews "Show reviews">
+<!ENTITY show-reviews-in-directory "Show reviews in subjects catalog">
+<!ENTITY show-index-catalog "Show field with catalog">
+<!ENTITY show-index-photoalbum "Show gallety field">
+<!ENTITY show-index-news "Show news field">
+<!ENTITY show-index-blog "Show blog field">
+
+<!ENTITY add-text-menu "Add page">
+<!ENTITY add-text-file "Add file">
+<!ENTITY add-text-image "Add image">
+<!ENTITY add-text-photo "Add picture">
+<!ENTITY add-text-album "Add album">
+<!ENTITY add-text-catalog "Add category">
+<!ENTITY add-text-catalog-object "Add item or service">
+<!ENTITY add-text-news "Add news">
+<!ENTITY add-text-post "Add post">
+
+<!ENTITY delete-text-menu "delete page">
+<!ENTITY delete-text-file "Delete file">
+<!ENTITY delete-text-image "Delete image">
+<!ENTITY delete-text-photo "delete picture">
+<!ENTITY delete-text-album "delete album">
+<!ENTITY delete-text-catalog "Delete category">
+<!ENTITY delete-text-catalog-object "delete item or service">
+<!ENTITY delete-text-news "delete news">
+<!ENTITY delete-text-post "Delete post">
+
+<!ENTITY share "Share with friends">
+<!ENTITY copyright "work on">
+<!ENTITY notfound-page "Page not found.">
+<!ENTITY sitemap-title "Sitemap">
+
+<!ENTITY feedback-autor "Autor">
+<!ENTITY feedback-email "E-mail">
+<!ENTITY feedback-theme "Subject">
+<!ENTITY feedback-message "Message">
+<!ENTITY special-offer "Special offer">
+<!ENTITY show-special-offers "Show special offer">
+<!ENTITY catalog-type "Type of goods">
+
+<!ENTITY add-photos "Add photos">
+<!ENTITY add-album "Add album">
+<!ENTITY created "Created">
+<!ENTITY out-of "out of">
+<!ENTITY no-photos-selected "There is nothing to add, try to select files next time">
+<!ENTITY cant-touch-this "Do not close your browser and reload the page before the completion of operations">
+<!ENTITY upload-some-photos "You can upload photos of a group">
+
+<!ENTITY page "Page">
+<!ENTITY page-lower-case "page">
+
+<!ENTITY opinions-add "Add opinion">
+<!ENTITY opinions-delete "Delete opinion">
+<!ENTITY opinions-author-fio "Opinion author name">
+<!ENTITY opinions-author-position "Opinion author position">
+<!ENTITY opinions-text "Opinion text">
+<!ENTITY empty-comments-widget-title "Comments">
+<!ENTITY empty-comments-page-link-title "All Comments">
